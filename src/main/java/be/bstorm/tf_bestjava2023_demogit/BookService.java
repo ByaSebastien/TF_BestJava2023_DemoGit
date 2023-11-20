@@ -22,4 +22,7 @@ public class BookService {
     void test(){
         System.out.println("this is ok");
     }
+    void test2(){
+        System.out.println("this is not ok");
+    }
 }
