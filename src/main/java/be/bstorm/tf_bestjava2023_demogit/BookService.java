@@ -9,4 +9,8 @@ public class BookService {
     void getAll(){
         System.out.println("Success");
     }
+
+    void create(){
+        System.out.println("OK");
+    }
 }
