@@ -10,7 +10,12 @@ public class BookService {
         System.out.println("Success");
     }
 
+
     void update(){
         System.out.println("Ok");
+}
+    void create(){
+        System.out.println("OK");
+
     }
 }
