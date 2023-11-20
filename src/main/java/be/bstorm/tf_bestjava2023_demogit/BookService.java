@@ -25,4 +25,7 @@ public class BookService {
     void test2(){
         System.out.println("this is not ok");
     }
+    void test3(){
+        System.out.println("this is maybe ok");
+    }
 }
