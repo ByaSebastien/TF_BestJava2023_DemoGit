@@ -18,4 +18,8 @@ public class BookService {
         System.out.println("OK");
 
     }
+
+    void test(){
+        System.out.println("this is ok");
+    }
 }
