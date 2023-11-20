@@ -9,4 +9,8 @@ public class BookService {
     void getAll(){
         System.out.println("Success");
     }
+
+    void update(){
+        System.out.println("Ok");
+    }
 }
